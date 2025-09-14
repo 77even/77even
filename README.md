@@ -40,7 +40,7 @@
 | 🇬🇧 **King's College London** | 🇨🇳 **Southwest University** |
 |:---:|:---:|
 | ![Master's](https://img.shields.io/badge/Master's%20Degree-Healthcare%20Technologies-FF6B6B?style=for-the-badge&labelColor=1a1a2e) | ![Bachelor's](https://img.shields.io/badge/Bachelor's%20Degree-Bioinformatics-4ECDC4?style=for-the-badge&labelColor=1a1a2e) |
-| *2023 - 2024* | *2019 - 2023* |
+| *2022 - 2023* | *2018 - 2022* |
 
 </div>
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-### 🤖 AI & Machine Learning
+###
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
@@ -75,7 +75,7 @@
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 </p>
 
-### 💻 Programming & Optimization
+###
 <p>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -89,7 +89,7 @@
 <img src="https://img.shields.io/badge/MNN-FF6B35?style=for-the-badge&logoColor=white"/>
 </p>
 
-### 🚀 Deployment & Tools
+###
 <p>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
@@ -98,26 +98,6 @@
 </p>
 
 </div>
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=77even&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77even&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFF" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=77even&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=77even&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" width="80%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=77even&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="100%"/>
-
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
 </div>
