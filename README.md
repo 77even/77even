@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with gradient background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Justin%20-%20Image Algorithm%20Engineer&fontSize=40&fontColor=fff&fontAlign=50&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Justin%20AI%20Engineer&fontSize=40&fontColor=fff&fontAlign=50&fontAlignY=35"/>
 
 <!-- Animated typing effect with high-tech terms -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=✨Transforming+pixels+into+insights%2C;algorithms+into+solutions%2C;and+research+into+real-world+impact.+%F0%9F%9A%80" alt="Motto Typing SVG" />
