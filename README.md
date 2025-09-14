@@ -14,7 +14,7 @@
 <!-- Contact Links -->
 <div align="center" style="margin: 20px 0;">
 <a href="mailto:lijiaqi122377@gmail.com">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Email" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/>
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSI0LjkyOSIgeTE9IjkuNDI5IiB4Mj0iNDMuMDcxIiB5Mj0iMzguNTcxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZWE0MzM1Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZDMzYjJjIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZD0iTTQwIDEySDhBNCA0IDAgMCAwIDQgMTZ2MTZhNCA0IDAgMCAwIDQgNGgzMmE0IDQgMCAwIDAgNC00VjE2YTQgNCAwIDAgMC00LTR6IiBmaWxsPSJ1cmwoI2EpIi8+PHBhdGggZD0iTTQwIDEySDhBNCA0IDAgMCAwIDQgMTZ2MTZhNCA0IDAgMCAwIDQgNGgzMmE0IDQgMCAwIDAgNC00VjE2YTQgNCAwIDAgMC00LTR6bTAgNEwyNCAyNCA4IDE2aDMyeiIgZmlsbD0iI2ZmZiIgZmlsbC1vcGFjaXR5PSIuMiIvPjwvc3ZnPg==" width="50" height="50" alt="Email"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/lijiaqi_7777">
