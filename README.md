@@ -28,31 +28,22 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## 🎓 Education
+## 🚀 About Me
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=150&section=header&text=🇬🇧%20King's%20College%20London%20-%20Master's%20Healthcare%20Technologies%20(2022-2023)&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=150&section=header&text=🇨🇳%20Southwest%20University%20-%20Bachelor's%20Bioinformatics%20(2018-2022)&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=667eea&center=true&vCenter=true&width=600&height=80&lines=🎓+Education+%26+💼+Career;My+Academic+%26+Professional+Journey;Building+the+Future+with+AI" alt="About Me Header" />
 
 </div>
-
-## 💼 Career
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30,2,12&height=120&section=header&text=Kernel%20AI%20Healthcare%20-%20Image%20Algorithm%20Engineer%20(Current)&fontSize=20&fontColor=fff&fontAlign=50&fontAlignY=50"/>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,30,2&height=120&section=header&text=Xiaozhi%20Future%20-%20Image%20Algorithm%20Engineer%20(Experience)&fontSize=20&fontColor=fff&fontAlign=50&fontAlignY=50"/>
+| <img src="https://img.shields.io/badge/🎓-EDUCATION-667eea?style=for-the-badge&labelColor=1a1a2e&logoColor=white"/> | <img src="https://img.shields.io/badge/💼-CAREER-764ba2?style=for-the-badge&labelColor=1a1a2e&logoColor=white"/> |
+|:---:|:---:|
+| <img src="https://img.shields.io/badge/🇬🇧_King's_College_London-Master's_Healthcare_Technologies-FF6B6B?style=flat-square&labelColor=667eea&logoColor=white"/><br/><img src="https://img.shields.io/badge/📅-2022--2023-4ECDC4?style=flat-square&logoColor=white"/> | <img src="https://img.shields.io/badge/🏥_Kernel_AI_Healthcare-Image_Algorithm_Engineer-FF6B6B?style=flat-square&labelColor=764ba2&logoColor=white"/><br/><img src="https://img.shields.io/badge/🔥-Current-E74C3C?style=flat-square&logoColor=white"/> |
+| <img src="https://img.shields.io/badge/🇨🇳_Southwest_University-Bachelor's_Bioinformatics-4ECDC4?style=flat-square&labelColor=667eea&logoColor=white"/><br/><img src="https://img.shields.io/badge/📅-2018--2022-4ECDC4?style=flat-square&logoColor=white"/> | <img src="https://img.shields.io/badge/🔬_Xiaozhi_Future-Image_Algorithm_Engineer-4ECDC4?style=flat-square&labelColor=764ba2&logoColor=white"/><br/><img src="https://img.shields.io/badge/📈-Experience-45B7D1?style=flat-square&logoColor=white"/> |
 
 </div>
-
-
 
 ## 🛠️ Tech Stack
 
