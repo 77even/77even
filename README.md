@@ -14,11 +14,11 @@
 <!-- Contact Links -->
 <div align="center" style="margin: 20px 0;">
 <a href="mailto:lijiaqi122377@gmail.com">
-<img src="https://api.iconify.design/logos:google-gmail.svg" width="50" height="50" alt="Email"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Email" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/lijiaqi_7777">
-<img src="https://api.iconify.design/logos:instagram-icon.svg" width="50" height="50" alt="Instagram"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50" height="50" alt="Instagram" style="filter: invert(11%) sepia(100%) saturate(4456%) hue-rotate(295deg) brightness(100%) contrast(89%);"/>
 </a>
 </div>
 
