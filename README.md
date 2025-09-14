@@ -38,7 +38,7 @@
 
 <!-- Education Cards -->
 <div align="center">
-<h3>🎓 Education Journey</h3>
+<h3>🎓 Education </h3>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=80&section=header&text=🇬🇧%20King's%20College%20London%20-%20Master's%20Healthcare%20Technologies%20(2022-2023)&fontSize=16&fontColor=fff&fontAlign=50&fontAlignY=50"/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=80&section=header&text=🇨🇳%20Southwest%20University%20-%20Bachelor's%20Bioinformatics%20(2018-2022)&fontSize=16&fontColor=fff&fontAlign=50&fontAlignY=50"/>
@@ -48,7 +48,7 @@
 
 <!-- Career Cards -->
 <div align="center">
-<h3>💼 Professional Experience</h3>
+<h3>💼 Career </h3>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30,2,12&height=80&section=header&text=%20Kernel%20AI%20Healthcare%20-%20Image%20Algorithm%20Engineer%20(Current)&fontSize=14&fontColor=fff&fontAlign=50&fontAlignY=50"/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,30,2&height=80&section=header&text=%20Xiaozhi%20Future%20-%20Image%20Algorithm%20Engineer%20(Experience)&fontSize=14&fontColor=fff&fontAlign=50&fontAlignY=50"/>
