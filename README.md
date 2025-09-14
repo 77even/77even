@@ -115,28 +115,6 @@
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="500"/>
-</div>
-
-<!-- Main Stats Grid -->
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=77even&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFF" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77even&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFF" width="48%"/>
-
-<img src="https://streak-stats.demolab.com/?user=77even&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=77even&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" width="80%"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=77even&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="100%"/>
-
-</div>
-
-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
