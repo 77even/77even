@@ -14,11 +14,11 @@
 <!-- Contact Links -->
 <div align="center" style="margin: 20px 0;">
 <a href="mailto:lijiaqi122377@gmail.com">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0OCIgaGVpZ2h0PSI0OCIgdmlld0JveD0iMCAwIDQ4IDQ4Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSI0LjkyOSIgeTE9IjkuNDI5IiB4Mj0iNDMuMDcxIiB5Mj0iMzguNTcxIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZWE0MzM1Ii8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjZDMzYjJjIi8+PC9saW5lYXJHcmFkaWVudD48L2RlZnM+PHBhdGggZD0iTTQwIDEySDhBNCA0IDAgMCAwIDQgMTZ2MTZhNCA0IDAgMCAwIDQgNGgzMmE0IDQgMCAwIDAgNC00VjE2YTQgNCAwIDAgMC00LTR6IiBmaWxsPSJ1cmwoI2EpIi8+PHBhdGggZD0iTTQwIDEySDhBNCA0IDAgMCAwIDQgMTZ2MTZhNCA0IDAgMCAwIDQgNGgzMmE0IDQgMCAwIDAgNC00VjE2YTQgNCAwIDAgMC00LTR6bTAgNEwyNCAyNCA4IDE2aDMyeiIgZmlsbD0iI2ZmZiIgZmlsbC1vcGFjaXR5PSIuMiIvPjwvc3ZnPg==" width="50" height="50" alt="Email"/>
+<img src="https://api.iconify.design/logos:google-gmail.svg" width="50" height="50" alt="Email"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/lijiaqi_7777">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50" height="50" alt="Instagram" style="filter: invert(11%) sepia(100%) saturate(4456%) hue-rotate(295deg) brightness(100%) contrast(89%);"/>
+<img src="https://api.iconify.design/logos:instagram-icon.svg" width="50" height="50" alt="Instagram"/>
 </a>
 </div>
 
