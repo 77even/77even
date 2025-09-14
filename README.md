@@ -28,25 +28,27 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 </div>
 
-## 🎓 Education Background
+## 🎓 Education
 
 <div align="center">
 
-| 🇬🇧 **King's College London** | 🇨🇳 **Southwest University** |
-|:---:|:---:|
-| ![Master's](https://img.shields.io/badge/Master's%20Degree-Healthcare%20Technologies-FF6B6B?style=for-the-badge&labelColor=1a1a2e) | ![Bachelor's](https://img.shields.io/badge/Bachelor's%20Degree-Bioinformatics-4ECDC4?style=for-the-badge&labelColor=1a1a2e) |
-| *2022 - 2023* | *2018 - 2022* |
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=150&section=header&text=🇬🇧%20King's%20College%20London%20-%20Master's%20Healthcare%20Technologies%20(2022-2023)&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,6,11&height=150&section=header&text=🇨🇳%20Southwest%20University%20-%20Bachelor's%20Bioinformatics%20(2018-2022)&fontSize=24&fontColor=fff&fontAlign=50&fontAlignY=50"/>
 
 </div>
 
-## 💼 Work Experience
+## 💼 Career
 
 <div align="center">
 
-|  **Kernel AI Healthcare** |  **Xiaozhi Future** |
-|:---:|:---:|
-| ![Current](https://img.shields.io/badge/Image%20Algorithm%20Engineer-Current-FF6B6B?style=for-the-badge&labelColor=1a1a2e) | ![Experience](https://img.shields.io/badge/Image%20Algorithm%20Engineer-Experience-E74C3C?style=for-the-badge&labelColor=1a1a2e) |
-| *Medical AI Development & Innovation* | *Medical Advanced AI Development* |
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30,2,12&height=120&section=header&text=Kernel%20AI%20Healthcare%20-%20Image%20Algorithm%20Engineer%20(Current)&fontSize=20&fontColor=fff&fontAlign=50&fontAlignY=50"/>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,30,2&height=120&section=header&text=Xiaozhi%20Future%20-%20Image%20Algorithm%20Engineer%20(Experience)&fontSize=20&fontColor=fff&fontAlign=50&fontAlignY=50"/>
 
 </div>
 
