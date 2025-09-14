@@ -11,15 +11,24 @@
 <!-- Animated typing effect with high-tech terms -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=✨Transforming+pixels+into+insights%2C;algorithms+into+solutions%2C;and+research+into+real-world+impact.+%F0%9F%9A%80" alt="Motto Typing SVG" />
 
-<!-- Contact & Tech Preview -->
-<div align="center" style="margin: 30px 0;">
+<!-- Contact Links -->
+<div align="center" style="margin: 20px 0;">
 <a href="mailto:lijiaqi122377@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="50" height="50" alt="Email" style="filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);"/>
 </a>
+&nbsp;&nbsp;
 <a href="https://instagram.com/lijiaqi_7777">
-<img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" height="40"/>
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="50" height="50" alt="Instagram" style="filter: invert(11%) sepia(100%) saturate(4456%) hue-rotate(295deg) brightness(100%) contrast(89%);"/>
 </a>
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50"/> <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50"/>
+</div>
+
+<!-- Tech Preview -->
+<div align="center" style="margin: 20px 0;">
+<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="50" height="50"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" height="50"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" height="50"/> 
+<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50"/>
 </div>
 
 </div>
