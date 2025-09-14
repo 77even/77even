@@ -43,7 +43,7 @@
 
 <div align="center">
 
-| 🏥 **Kernel AI Healthcare** | 🔬 **Xiaozhi Future** |
+|  **Kernel AI Healthcare** |  **Xiaozhi Future** |
 |:---:|:---:|
 | ![Current](https://img.shields.io/badge/Healthcare%20Image%20Algorithm%20Engineer-Current-FF6B6B?style=for-the-badge&labelColor=1a1a2e) | ![Experience](https://img.shields.io/badge/Image%20Algorithm%20Engineer-Experience-E74C3C?style=for-the-badge&labelColor=1a1a2e) |
 | *Medical AI Development & Innovation* | *Medical Advanced AI Development* |
