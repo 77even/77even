@@ -3,15 +3,13 @@
 <!-- Header with gradient background -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=👋%20Welcome!&fontSize=50&fontColor=fff&fontAlign=50&fontAlignY=35"/>
 
-<!-- Animated typing effect with high-tech terms -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=✨Transforming+pixels+into+insights%2C;algorithms+into+solutions%2C;and+research+into+real-world+impact.+%F0%9F%9A%80" alt="Motto Typing SVG" />
-
 <!-- Cool Animation -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600" alt="AI Brain Animation"/>
 </div>
 
-<br/>
+<!-- Animated typing effect with high-tech terms -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=✨Transforming+pixels+into+insights%2C;algorithms+into+solutions%2C;and+research+into+real-world+impact.+%F0%9F%9A%80" alt="Motto Typing SVG" />
 
 <!-- Contact Information -->
 <div align="center">
