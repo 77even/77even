@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header with gradient background -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Justin%20-%20Image Algorithm%20Engineer&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Justin%20-%20AI%20Engineer&fontSize=40&fontColor=fff"/>
 
 <!-- Animated typing effect with high-tech terms -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=3000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=✨Transforming+pixels+into+insights%2C;algorithms+into+solutions%2C;and+research+into+real-world+impact.+%F0%9F%9A%80" alt="Motto Typing SVG" />
@@ -41,30 +41,20 @@
 
 <div align="center">
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin: 10px 0;">
-  <span style="font-weight: bold; font-size: 18px; color: #FF6B6B;">🇬🇧 King's College London</span>
-  <div style="display: inline-flex; align-items: center; background: linear-gradient(90deg, #1a1a2e 0%, #FF6B6B 100%); padding: 10px 20px; border-radius: 8px; color: white; font-weight: bold; font-size: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
-    <img src="fig/kcl.svg.png" width="24" height="24" style="margin-right: 12px; border-radius: 50%; background: white; padding: 2px;"/>
-    <span style="letter-spacing: 0.5px;">Master's Degree - Healthcare Technologies</span>
-  </div>
-</div>
+**🇬🇧 King's College London**
+<br/>
+<img src="https://img.shields.io/badge/Master's%20Degree-Healthcare%20Technologies-FF6B6B?style=for-the-badge&labelColor=1a1a2e&logoColor=white"/>
 
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 15px; margin: 10px 0;">
-  <span style="font-weight: bold; font-size: 18px; color: #4ECDC4;">🇨🇳 Southwest University</span>
-  <div style="display: inline-flex; align-items: center; background: linear-gradient(90deg, #1a1a2e 0%, #4ECDC4 100%); padding: 10px 20px; border-radius: 8px; color: white; font-weight: bold; font-size: 16px; box-shadow: 0 2px 8px rgba(0,0,0,0.3);">
-    <img src="fig/swu.jpeg" width="24" height="24" style="margin-right: 12px; border-radius: 50%; background: white; padding: 2px;"/>
-    <span style="letter-spacing: 0.5px;">Bachelor's Degree - Bioinformatics</span>
-  </div>
-</div>
+**🇨🇳 Southwest University**
+<br/>
+<img src="https://img.shields.io/badge/Bachelor's%20Degree-Bioinformatics-4ECDC4?style=for-the-badge&labelColor=1a1a2e&logoColor=white"/>
 
 </div>
 
 ---
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=6,11,20,30,2&height=120&section=header&text=%20%&fontSize=18&fontColor=fff&animation=blink&fontAlignY=70"/>
-</div>
+## 💼 Work Experience
 
 <div align="center">
 
@@ -131,34 +121,23 @@
 </div>
 
 <!-- Main Stats Grid -->
-<table align="center" width="100%" style="border: none;">
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=77even&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFF&border_radius=15" width="100%"/>
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77even&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFF&border_radius=15" width="100%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" style="padding-top: 20px;">
-<img src="https://streak-stats.demolab.com/?user=77even&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&border_radius=15" width="60%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" style="padding-top: 20px;">
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=77even&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=77even&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFF" width="48%"/>
+
+<img src="https://streak-stats.demolab.com/?user=77even&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" width="70%"/>
+
 <img src="https://github-profile-trophy.vercel.app/?username=77even&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4&row=2" width="80%"/>
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" style="padding-top: 20px;">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=77even&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="95%"/>
-</td>
-</tr>
-</table>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=77even&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FF6B6B&area=true&area_color=00D9FF" width="100%"/>
+
+</div>
 
 
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=100&section=footer"/>
 </div>
