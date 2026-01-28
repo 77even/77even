@@ -49,7 +49,7 @@
 
 <!-- Career Cards -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30,2,12&height=80&section=header&text=%20Kernel%20AI%20Healthcare%20-%20Image%20Algorithm%20Engineer%20(Current)&fontSize=14&fontColor=fff&fontAlign=50&fontAlignY=50"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=30,2,12&height=80&section=header&text=%20LinkDoc%20%20%20-%20Senior%20Algorithm%20Engineer%20(Current)&fontSize=14&fontColor=fff&fontAlign=50&fontAlignY=50"/>
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,30,2&height=80&section=header&text=%20Xiaozhi%20Future%20-%20Image%20Algorithm%20Engineer%20(Experience)&fontSize=14&fontColor=fff&fontAlign=50&fontAlignY=50"/>
 </div>
